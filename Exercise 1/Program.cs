@@ -16,6 +16,7 @@ namespace Exercise_1
             string monthOfBirth = Console.ReadLine();
             Console.WriteLine("Please type the day of the month you were born.");
             string dayOfBirth = Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
